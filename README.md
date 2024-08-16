@@ -33,7 +33,8 @@ please use [THIS](https://www.purplemath.com/modules/mathtext.htm) dictionary to
 
 * Text Clients [None Exist]:
   * AleksHaxx Website *(soon...) will include image recognition later*
-  * AleksHaxx App *(soon...) also will include image recognition later*
+  * Instagram DMs Bot *(soon...)*
+  * Snapchat Bot *(soon...) with Image Recognition!*
 
 ### Actual Steps
 1. You screenshot or type out the question and the problem.
@@ -42,7 +43,7 @@ please use [THIS](https://www.purplemath.com/modules/mathtext.htm) dictionary to
 4. Type the answer in.
 
 ## 📋 Reasons for making
-1. Schools shouldn't pay these insane prices for awful software ~$29k for 800 students.
+1. Schools shouldn't pay these insane prices for awful software ~$29k for 800 students PER YEAR.
 2. School Districts should not assign this as assessment grades, ON TOP OF HOMEWORK.
 3. Teachers who lack the nessecasry skills to teach should not rely on this software.
 4. Teachers should focus on helping students, not giving mundane tasks.
@@ -64,7 +65,7 @@ In the unfortunate event that this project of mine is removed from github
 or down by ALEKS staff. And yes I will try to fight it because nobody  
 decides when I'm done.
 
-1. You can find it on [Internet Archive (unavailable)](https://https://web.archive.org/)
+1. You can find it on [Internet Archive (unavailable)](https://web.archive.org/)
 2. You can find it on [MediaFire](https://www.mediafire.com/folder/njoav8176nd88/AleksHaxx)
 3. You can find it on [Mega](https://mega.nz/fm/Am8V2BxL)
 4. You can find it on [GitLab](https://gitlab.com/piieboi/alekshaxx)  
