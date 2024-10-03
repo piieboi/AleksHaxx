@@ -2,7 +2,7 @@
 **This project is dead now.**
 
 Yeah so snapchat released an update to their AI, "MyAI"  
-that basically did everything AleksHaxx was promising,
+that basically did everything AleksHaxx was promising,  
 so now I don't care about this project anymore.
 
 I'm still mad about the unreasonable amount of hours  
